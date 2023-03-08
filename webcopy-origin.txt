@@ -1,0 +1,556 @@
+Uri: https://galactigun.tk/
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\index.htm
+Content Type: text/html
+
+Uri: https://galactigun.tk/wp-content/themes/Impreza/fonts/fa-solid-900.woff2?ver=8.13.4
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\themes\Impreza\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://galactigun.tk/wp-content/themes/Impreza/fonts/fa-solid-900.woff?ver=8.13.4
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\themes\Impreza\fonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://galactigun.tk/wp-content/themes/Impreza/fonts/fa-regular-400.woff2?ver=8.13.4
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\themes\Impreza\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://galactigun.tk/wp-content/themes/Impreza/fonts/fa-regular-400.woff?ver=8.13.4
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\themes\Impreza\fonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://galactigun.tk/wp-content/themes/Impreza/fonts/fa-light-300.woff2?ver=8.13.4
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\themes\Impreza\fonts\fa-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://galactigun.tk/wp-content/themes/Impreza/fonts/fa-light-300.woff?ver=8.13.4
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\themes\Impreza\fonts\fa-light-300.woff
+Content Type: font/woff
+
+Uri: https://galactigun.tk/wp-content/themes/Impreza/fonts/fa-duotone-900.woff2?ver=8.13.4
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\themes\Impreza\fonts\fa-duotone-900.woff2
+Content Type: font/woff2
+
+Uri: https://galactigun.tk/wp-content/themes/Impreza/fonts/fa-duotone-900.woff?ver=8.13.4
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\themes\Impreza\fonts\fa-duotone-900.woff
+Content Type: font/woff
+
+Uri: https://galactigun.tk/wp-content/themes/Impreza/fonts/fa-brands-400.woff2?ver=8.13.4
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\themes\Impreza\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://galactigun.tk/wp-content/themes/Impreza/fonts/fa-brands-400.woff?ver=8.13.4
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\themes\Impreza\fonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://galactigun.tk/wp-content/themes/Impreza/fonts/material-icons.woff2?ver=8.13.4
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\themes\Impreza\fonts\material-icons.woff2
+Content Type: font/woff2
+
+Uri: https://galactigun.tk/wp-content/themes/Impreza/fonts/material-icons.woff?ver=8.13.4
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\themes\Impreza\fonts\material-icons.woff
+Content Type: font/woff
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/ProximaNova-Regular.woff
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\ProximaNova-Regular.woff
+Content Type: font/woff
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/ProximaNova-Regular.woff2
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\ProximaNova-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://galactigun.tk/wp-content/themes/Impreza/common/css/vendor/images/marker-icon.png
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\themes\Impreza\common\css\vendor\images\marker-icon.png
+Content Type: image/png
+
+Uri: https://galactigun.tk/feed/
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://galactigun.tk/comments/feed/
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\comments\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://galactigun.tk/wp-content/plugins/contact-form-7/includes/css/styles.css
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://galactigun.tk/wp-includes/css/dashicons.min.css
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://galactigun.tk/wp-content/plugins/post-views-counter/css/frontend.min.css
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\plugins\post-views-counter\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:400%2C700&display=swap
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\css.css
+Content Type: text/css
+
+Uri: https://galactigun.tk/wp-content/themes/Impreza/css/style.min.css
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\themes\Impreza\css\style.min.css
+Content Type: text/css
+
+Uri: https://galactigun.tk/wp-content/themes/Impreza/common/css/base/ripple.css
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\themes\Impreza\common\css\base\ripple.css
+Content Type: text/css
+
+Uri: https://galactigun.tk/wp-json/
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-json\index.htm.json
+Content Type: application/json
+
+Uri: https://galactigun.tk/wp-json/wp/v2/pages/5
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-json\wp\v2\pages\5.json
+Content Type: application/json
+
+Uri: https://galactigun.tk/wp-includes/wlwmanifest.xml
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-includes\wlwmanifest.xml
+Content Type: text/xml
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/favicom-150x150.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\favicom-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/favicom.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\favicom.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/1.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\1.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/2.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\2.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/3.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\3.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/4.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\4.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/20210218_182625.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\20210218_182625.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/20210218_181551.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\20210218_181551.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/20210218_181314.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\20210218_181314.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/20210218_181326.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\20210218_181326.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/20210218_181235.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\20210218_181235.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/20210218_181233.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\20210218_181233.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/20210218_181223.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\20210218_181223.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/20210218_181207.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\20210218_181207.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/9.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\9.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/7.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\7.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/6.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\6.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/5.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\5.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/dom-4.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\dom-4.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/3-1.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/2-1.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/dom-5.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\dom-5.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/4-1.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/dom-6.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\dom-6.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/8.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\8.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/7-1.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/6-1.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\6-1.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/logo-1-300x179.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\logo-1-300x179.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/razvitie.png
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\razvitie.png
+Content Type: image/png
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/4-1024x461.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\4-1024x461.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/3-1024x461.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\3-1024x461.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/2-1024x461.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\2-1024x461.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/1-1024x461.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\1-1024x461.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/20210218_182625-1024x461.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\20210218_182625-1024x461.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/20210218_181551-1024x461.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\20210218_181551-1024x461.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/20210218_181314-1024x461.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\20210218_181314-1024x461.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/20210218_181326-1024x461.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\20210218_181326-1024x461.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/20210218_181235-1024x461.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\20210218_181235-1024x461.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/20210218_181233-1024x461.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\20210218_181233-1024x461.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/20210218_181223-1024x461.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\20210218_181223-1024x461.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/20210218_181207-1024x461.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\20210218_181207-1024x461.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/9-1024x768.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\9-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/7-1024x768.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\7-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/6-1024x768.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\6-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/5-1024x768.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\5-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/dom-4-1024x768.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\dom-4-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/3-1-1024x768.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\3-1-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/2-1-1024x768.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\2-1-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/dom-5-1024x768.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\dom-5-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/4-1-1024x768.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\4-1-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/dom-6-1024x768.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\dom-6-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/8-1024x768.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\8-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/7-1-1024x768.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\7-1-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/6-1-1024x768.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\6-1-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/logo-1.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\logo-1.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/plugins/contact-form-7/includes/swv/js/index.js
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://galactigun.tk/wp-content/plugins/contact-form-7/includes/js/index.js
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://galactigun.tk/wp-includes/js/jquery/jquery.min.js
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://galactigun.tk/wp-content/plugins/cf7-phone-mask-field/assets/js/jquery.maskedinput.js
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\plugins\cf7-phone-mask-field\assets\js\jquery.maskedinput.js
+Content Type: application/javascript
+
+Uri: https://galactigun.tk/wp-content/themes/Impreza/js/us.core.min.js
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\themes\Impreza\js\us.core.min.js
+Content Type: application/javascript
+
+Uri: https://galactigun.tk/wp-content/themes/Impreza/common/js/base/ripple.min.js
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\themes\Impreza\common\js\base\ripple.min.js
+Content Type: application/javascript
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/4-300x135.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\4-300x135.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/4-1536x691.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\4-1536x691.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/3-300x135.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\3-300x135.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/3-1536x691.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\3-1536x691.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/2-300x135.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\2-300x135.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/2-1536x691.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\2-1536x691.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/1-300x135.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\1-300x135.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/1-1536x691.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\1-1536x691.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/20210218_182625-300x135.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\20210218_182625-300x135.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/20210218_182625-1536x691.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\20210218_182625-1536x691.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/20210218_181551-300x135.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\20210218_181551-300x135.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/20210218_181314-300x135.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\20210218_181314-300x135.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/20210218_181314-1536x691.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\20210218_181314-1536x691.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/20210218_181326-300x135.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\20210218_181326-300x135.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/20210218_181326-1536x691.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\20210218_181326-1536x691.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/20210218_181235-300x135.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\20210218_181235-300x135.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/20210218_181235-1536x691.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\20210218_181235-1536x691.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/20210218_181233-300x135.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\20210218_181233-300x135.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/20210218_181233-1536x691.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\20210218_181233-1536x691.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/20210218_181223-300x135.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\20210218_181223-300x135.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/20210218_181223-1536x691.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\20210218_181223-1536x691.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/20210218_181207-300x135.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\20210218_181207-300x135.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/20210218_181207-1536x691.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\20210218_181207-1536x691.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/9-300x225.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\9-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/9-1536x1152.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\9-1536x1152.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/7-300x225.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\7-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/7-1536x1152.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\7-1536x1152.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/6-300x225.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\6-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/6-1536x1152.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\6-1536x1152.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/5-300x225.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\5-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/5-1536x1152.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\5-1536x1152.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/dom-4-300x225.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\dom-4-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/dom-4-1536x1152.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\dom-4-1536x1152.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/3-1-300x225.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\3-1-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/3-1-1536x1152.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\3-1-1536x1152.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/2-1-300x225.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\2-1-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/2-1-1536x1152.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\2-1-1536x1152.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/dom-5-300x225.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\dom-5-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/dom-5-1536x1152.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\dom-5-1536x1152.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/4-1-300x225.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\4-1-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/4-1-1536x1152.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\4-1-1536x1152.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/dom-6-300x225.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\dom-6-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/dom-6-1536x1152.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\dom-6-1536x1152.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/8-300x225.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\8-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/8-1536x1152.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\8-1536x1152.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/7-1-300x225.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\7-1-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/7-1-1536x1152.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\7-1-1536x1152.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/6-1-300x225.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\6-1-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-content/uploads/2023/01/6-1-1536x1152.jpg
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-content\uploads\2023\01\6-1-1536x1152.jpg
+Content Type: image/jpeg
+
+Uri: https://galactigun.tk/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://galactigun.tk/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Users\Матвей\Desktop\galactigun.tk\wp-includes\fonts\dashicons.ttf
+Content Type: application/octet-stream
+
