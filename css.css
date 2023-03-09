@@ -1,16 +1,109 @@
 @font-face {
-  font-family: 'Open Sans';
+  font-family: "Open Sans";
   font-style: normal;
   font-weight: 400;
   font-stretch: normal;
   font-display: swap;
-  src: url(https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf) format('truetype');
+  src: url(https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf)
+    format("truetype");
 }
 @font-face {
-  font-family: 'Open Sans';
+  font-family: "Open Sans";
   font-style: normal;
   font-weight: 700;
   font-stretch: normal;
   font-display: swap;
-  src: url(https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf) format('truetype');
+  src: url(https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf)
+    format("truetype");
+}
+
+#home {
+}
+
+.swipermain {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+
+.bg-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100%;
+  background: #00000070;
+}
+
+.swiper-container {
+}
+
+.swiper-slide {
+  overflow: hidden;
+}
+
+.swiper-zoom-container {
+}
+
+.swiper-zoom-container img {
+  width: 100%;
+  height: 100%;
+  animation: zoom 30s infinite ease-in-out;
+}
+
+@keyframes zoom {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.5);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.swiper2 {
+  width: 1140px;
+  height: 513px;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.swiper-wrapper{
+  width: 100%;height: 100%;
+}
+
+.mobile-contact{
+  color: #000;
+  display: none;
+}
+@media (max-width:426px) {
+  .mobile-contact{
+    display: block;
+  }
+  .swipermain{
+    height: 100% !important; 
+  }
+  .swiper{
+    width: 100%;
+    height: 250px;
+  }
+  .swiper-slide img {
+  }
 }
