@@ -130,3 +130,20 @@
 .db-n img{
   height: 120px !important;
 }
+
+@media (max-width:769px) {
+  .logo-land{
+    width: 80px !important;
+    margin-top: -35px !important;
+  }
+  .contact-popup{
+    display:  none !important
+  }
+  .w-socials-list{
+display: none;
+  }
+  .swiper {
+    width: 100%;
+    height: 250px;
+  }
+}
