@@ -135,7 +135,7 @@
   height: 120px !important;
 }
 
-@media (max-width: 769px) {
+@media (max-width: 1024px) {
   .mt-10{
     margin-top: 50px;
   }
