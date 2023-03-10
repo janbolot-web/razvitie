@@ -95,6 +95,10 @@
   display: none;
 }
 @media (max-width: 426px) {
+  
+  .contact-popup {
+    visibility: visible !important;
+  }
   .mobile-contact {
     display: block;
   }
@@ -127,20 +131,24 @@
   width: 150px;
 }
 
-.db-n img{
+.db-n img {
   height: 120px !important;
 }
 
-@media (max-width:769px) {
-  .logo-land{
+@media (max-width: 769px) {
+  .mt-10{
+    margin-top: 50px;
+  }
+  .logo-land {
     width: 80px !important;
     margin-top: -35px !important;
   }
-  .contact-popup{
-    display:  none !important
+
+  .contact-popup {
+    visibility: hidden;
   }
-  .w-socials-list{
-display: none;
+  .w-socials-list {
+    display: none;
   }
   .swiper {
     width: 100%;
