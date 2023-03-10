@@ -135,13 +135,14 @@
   height: 120px !important;
 }
 
-@media (max-width: 1024px) {
+@media screen and (max-width: 1024px) {
   .mt-10{
     margin-top: 50px;
   }
   .logo-land {
     width: 80px !important;
     margin-top: -35px !important;
+    margin-right: 100px;
   }
 
   .contact-popup {
@@ -153,5 +154,8 @@
   .swiper {
     width: 100%;
     height: 250px;
+  }
+  .w-nav-list {
+    display: none !important;
   }
 }
